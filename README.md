@@ -1,3 +1,25 @@
+
+# Realtor
+
+### A Web application for buying, selling and renting the real estate properties.
+
+
+Huddle re-imagines the way we build communities. You have a voice, but so does your audience. Create connections with your users as you engage in genuine discussion.
+## 🚀 About Me
+Hi 👋, I'm Sagar Gund
+A passionate frontend and blockchain developer from India
+
+
+## Authors
+
+- [@SagarGund](https://www.github.com/ItsKalfar)
+
+
+## Tech Stack
+
+**Client:** Next.js, Chakra UI
+**API** RapidAPI
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
