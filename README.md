@@ -3,8 +3,6 @@
 
 ### A Web application for buying, selling and renting the real estate properties.
 
-
-Huddle re-imagines the way we build communities. You have a voice, but so does your audience. Create connections with your users as you engage in genuine discussion.
 ## 🚀 About Me
 Hi 👋, I'm Sagar Gund
 A passionate frontend and blockchain developer from India
